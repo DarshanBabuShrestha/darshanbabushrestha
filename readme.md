@@ -29,7 +29,6 @@
 
 ## 🚀 Experience  
 
-- **Microsoft – SWE Intern (Incoming, 2026)**  
 - **JPMorgan Chase (Forage Simulation, 2025)** – Built Spring Boot microservices + Kafka for real-time transaction analytics  
 - **Web Developer Intern @ TLT (2025)** – React + FastAPI + WordPress, CI/CD pipelines, secure web infrastructure  
 - **AI4ALL Fellow (2025)** – Energy forecasting ML pipeline (97.6% R²) + Streamlit visualization  
