@@ -10,8 +10,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🎓 Junior in **Computer Science** with a **Data Science minor** at UT Arlington (Dean’s List, Top 1% of students)  
-- 💼 Incoming **Microsoft Software Engineer Intern (Summer 2026)**  
+- 🎓 Junior in **Computer Science** at UT Arlington (Dean’s List)  
 - 🌱 **AI4ALL Machine Learning Fellow** — building ethical & inclusive AI solutions  
 - 🎨 **Adobe Student Ambassador** — helping students with design, branding, and digital creativity  
 - ⚡ Fun fact: I love building tools that merge **AI + Creativity + Accessibility**  
