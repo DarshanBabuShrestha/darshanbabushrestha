@@ -57,7 +57,7 @@
 
 💼 [Portfolio](https://www.darshanbabushrestha.xyz)  
 📧 [Email Me](mailto:dbs6231@mavs.uta.edu)  
-🔗 [LinkedIn]([https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/darshan-babu-shrestha-1076b3212/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/darshan-babu-shrestha-1076b3212/)  
 
 ---
 
