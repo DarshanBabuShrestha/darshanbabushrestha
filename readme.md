@@ -28,7 +28,7 @@
 
 ## 🚀 Experience  
 
-- **JPMorgan Chase (Forage Simulation, 2025)** – Built Spring Boot microservices + Kafka for real-time transaction analytics  
+- **JPMorgan Chase – Built Spring Boot microservices + Kafka for real-time transaction analytics  
 - **Web Developer Intern @ TLT (2025)** – React + FastAPI + WordPress, CI/CD pipelines, secure web infrastructure  
 - **AI4ALL Fellow (2025)** – Energy forecasting ML pipeline (97.6% R²) + Streamlit visualization  
 - **Adobe Student Ambassador** – Led workshops on design, storytelling, and digital creativity  
