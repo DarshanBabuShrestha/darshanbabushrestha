@@ -1,5 +1,5 @@
 # Darshan Babu Shrestha
-**Computer Science @ UT Arlington · 4.0 GPA · Dean's List**
+**Computer Science @ UT Arlington · 3.83 GPA · Dean's List**
 
 [Portfolio](https://www.darshanbabushrestha.xyz) · [LinkedIn](https://www.linkedin.com/in/darshan-babu-shrestha-1076b3212/) · [Email](mailto:dbs6231@mavs.uta.edu)
 
